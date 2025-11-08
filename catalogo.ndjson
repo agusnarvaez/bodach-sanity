@@ -1,0 +1,25 @@
+{"_type":"product","_id":"placa-15-recta","title":"Placa Recta 1,5 bloqueada","slug":{"_type":"slug","current":"placa-15-recta"},"category":{"_type":"reference","_ref":"pies-manos"},"photo":{"_type":"image","asset":{"_type":"reference","_ref":"image-placa15recta"}},"variants":[
+  {"_type":"variant","title":"Recta 4 orif","code":"PL15-R-04","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"4"}]},
+  {"_type":"variant","title":"Recta 6 orif","code":"PL15-R-06","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"6"}]},
+  {"_type":"variant","title":"Recta 8 orif","code":"PL15-R-08","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"8"}]},
+  {"_type":"variant","title":"Recta 10 orif","code":"PL15-R-10","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"10"}]}
+]}
+{"_type":"product","_id":"placa-27-recta","title":"Placa Recta 2,7 bloqueada","slug":{"_type":"slug","current":"placa-27-recta"},"category":{"_type":"reference","_ref":"pies-manos"},"photo":{"_type":"image","asset":{"_type":"reference","_ref":"image-placa27recta"}},"variants":[
+  {"_type":"variant","title":"Recta 4 orif","code":"PL27-R-04","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"4"}]},
+  {"_type":"variant","title":"Recta 5 orif","code":"PL27-R-05","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"5"}]},
+  {"_type":"variant","title":"Recta 6 orif","code":"PL27-R-06","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"6"}]},
+  {"_type":"variant","title":"Recta 7 orif","code":"PL27-R-07","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"7"}]},
+  {"_type":"variant","title":"Recta 9 orif","code":"PL27-R-09","photo":null,"attributes":[{"_type":"attribute","key":"orificios","value":"9"}]}
+]}
+{"_type":"product","_id":"tornillo-bloq-35","title":"Tornillo Bloqueado Ø 3,5 mm","slug":{"_type":"slug","current":"tornillo-bloq-35"},"category":{"_type":"reference","_ref":"tornillos"},"photo":{"_type":"image","asset":{"_type":"reference","_ref":"image-tornillo35"}},"variants":[
+  {"_type":"variant","title":"L 6 mm","code":"TB35-006","attributes":[{"_type":"attribute","key":"longitud","value":"6 mm"}]},
+  {"_type":"variant","title":"L 20 mm","code":"TB35-020","attributes":[{"_type":"attribute","key":"longitud","value":"20 mm"}]},
+  {"_type":"variant","title":"L 40 mm","code":"TB35-040","attributes":[{"_type":"attribute","key":"longitud","value":"40 mm"}]},
+  {"_type":"variant","title":"L 60 mm","code":"TB35-060","attributes":[{"_type":"attribute","key":"longitud","value":"60 mm"}]}
+]}
+{"_type":"product","_id":"detensor","title":"Detensor titanio","slug":{"_type":"slug","current":"detensor-titanio"},"category":{"_type":"reference","_ref":"pelvis"},"photo":{"_type":"image","asset":{"_type":"reference","_ref":"image-detensor"}},"variants":[
+  {"_type":"variant","title":"Ø 1,5 mm","code":"DET15","attributes":[{"_type":"attribute","key":"diametro","value":"1,5 mm"}]},
+  {"_type":"variant","title":"Ø 2,0 mm","code":"DET20","attributes":[{"_type":"attribute","key":"diametro","value":"2,0 mm"}]},
+  {"_type":"variant","title":"Ø 2,5 mm","code":"DET25","attributes":[{"_type":"attribute","key":"diametro","value":"2,5 mm"}]},
+  {"_type":"variant","title":"Ø 3,0 mm","code":"DET30","attributes":[{"_type":"attribute","key":"diametro","value":"3,0 mm"}]}
+]}
