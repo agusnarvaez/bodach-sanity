@@ -36,3 +36,12 @@ npm run build:ci
 - Sanity auto-updates are intentionally disabled in `sanity.cli.ts` so builds stay deterministic.
 - Validate schema changes with both lint/build and a quick Studio smoke check.
 - Keep import-related changes aligned with the NDJSON fixtures and `check-upload.js`.
+
+<!-- dotclaude -->
+## Harness: dotclaude
+
+Este repo se trabaja con la config de Claude Code / Codex de [agusnarvaez/dotclaude](https://github.com/agusnarvaez/dotclaude)
+(privado): reglas compartidas, headroom (compresión de contexto) y graphify (grafo de código).
+
+- PC nueva: `gh repo clone agusnarvaez/dotclaude ~/.claude-sync && bash ~/.claude-sync/bin/bootstrap.sh`
+- Verificar: `headroom doctor`. Las reglas globales viven en `~/.claude/rules/` (Codex: `~/.codex/AGENTS.md`).
